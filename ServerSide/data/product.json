@@ -1,0 +1,131 @@
+[
+    {
+      "name": "accent chair",
+      "price": 25,
+      "company": "CompanyA",
+      "rating": 4
+    },
+    {
+      "name": "albany sectional",
+      "price": 109,
+      "company": "CompanyB",
+      "rating": 5
+    },
+    {
+      "name": "albany table",
+      "price": 309,
+      "company": "CompanyB",
+      "rating": 4.9
+    },
+    {
+      "name": "armchair",
+      "price": 125,
+      "company": "CompanyA",
+      "rating": 4.8
+    },
+    {
+      "name": "bar stool",
+      "price": 40,
+      "company": "CompanyB",
+      "rating": 4.6
+    },
+    {
+      "name": "dining table",
+      "price": 42,
+      "company": "CompanyC",
+      "rating": 4.55
+    },
+    {
+      "name": "emperor bed",
+      "price": 23,
+      "company": "CompanyC"
+    },
+    {
+      "name": "entertainment center",
+      "price": 59,
+      "featured": true,
+      "company": "CompanyD"
+    },
+    {
+      "name": "high-back bench",
+      "price": 39,
+      "featured": true,
+      "company": "CompanyC"
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99,
+      "company": "CompanyD"
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 31,
+      "featured": true,
+      "company": "CompanyD"
+    },
+    {
+      "name": "modern poster",
+      "price": 30,
+      "company": "CompanyB"
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "CompanyC"
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "CompanyB"
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "CompanyA"
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "CompanyD"
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "CompanyB"
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "CompanyA"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "CompanyC"
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "CompanyC"
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "CompanyC"
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "CompanyD"
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "CompanyD"
+    }
+  ]
